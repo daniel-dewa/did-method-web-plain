@@ -38,6 +38,21 @@ Compelled us to create `did:well-known`.
 
 - TODO
 
+## License
+
+All Reports in this Repository are licensed by Contributors under the [W3C Software and Document
+License - 2023 version](https://www.w3.org/copyright/software-license-2023/).
+
+Contributions to Specifications are made under the
+[W3C CLA](https://www.w3.org/community/about/agreements/cla/).
+
+Contributions to Software, including sample implementations, are under the
+[Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
+
+### NOTICE
+
+This software or document includes material copied from or derived from did:web Method Specification ([uri](https://w3c-ccg.github.io/did-method-web/)). Copyright © 2025 World Wide Web Consortium. https://www.w3.org/copyright/software-license-2023/
+
 ## Editing and building the specification
 
 This specification uses [ReSpec](https://github.com/w3c/respec/) html. Just edit `index.html` and the draft will be rendered correctly.
